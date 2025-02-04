@@ -1,3 +1,6 @@
+"""author: Daiji Kuriakose
+   Date  : 29/01/2025
+   program: do operations like  +,-,*, /, % and use Switch Statement """
 #include<stdio.h>
 int main(){
  int num1,num2;
