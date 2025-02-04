@@ -1,3 +1,6 @@
+"""author: Daiji Kuriakose
+   Date  : 29/01/2025
+   program: to fint the factorial of a given number."""
 #include<stdio.h>
 int main(){
 int number,sum=1,i=1;
