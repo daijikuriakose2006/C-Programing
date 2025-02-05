@@ -1,7 +1,7 @@
-"""author: Daiji Kuriakose
+'''author: Daiji Kuriakose
    Date  : 05/02/2025
-   Program: To search a number in a array.
-"""
+   Program: To input elements into an array and find the maximum and minimum elements.
+'''
 #include<stdio.h>
 int main(){
 int limit,i,num,j;
