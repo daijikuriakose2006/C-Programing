@@ -1,4 +1,4 @@
-'''author: Daiji Kuriakose
+''' author: Daiji Kuriakose
    Date  : 05/02/2025
    Program: To input elements into an array and find the maximum and minimum elements.
 '''
