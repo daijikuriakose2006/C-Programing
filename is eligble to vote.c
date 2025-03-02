@@ -1,8 +1,7 @@
-"""
-author: Daiji Kuriakose
-Date  : 5/02/2025
-program: to check eligible for casting your vote.
-"""
+/* author: Daiji Kuriakose
+   Date  : 5/02/2025
+   program: to check eligible for casting your vote.
+*/
 #include<stdio.h>
 int main(){
 int age;
