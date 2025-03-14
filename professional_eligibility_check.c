@@ -1,8 +1,8 @@
-"""
+/*
 author: Daiji Kuriakose
 Date  : 5/02/2025
 program: to check eligible for professional course.
-"""
+*/
 #include<stdio.h>
 int main(){
 int maths,physics,chemistry,sum,total;
