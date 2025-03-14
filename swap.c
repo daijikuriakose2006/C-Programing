@@ -1,3 +1,8 @@
+/*
+author: Daiji Kuriakose
+Date  : 05/02/2025
+Program: To soart the numbers.
+*/
 #include<stdio.h>
 int main(){
  int limit,i,n,temp,j;
