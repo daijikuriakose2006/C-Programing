@@ -1,8 +1,8 @@
-"""
+/*
 author: Daiji Kuriakose
 Date  : 5/02/2025
 program: to check profit in a market.
-"""
+*/
 #include<stdio.h>
 int main(){
 int cost,price,profit,loss;
