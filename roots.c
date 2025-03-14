@@ -1,8 +1,8 @@
-"""
+/*
 author: Daiji Kuriakose
 Date  : 4/02/2025
 program: Write a C Program to find the roots of a Quadratic Equation..
-"""
+*/
 #include<stdio.h>
 #include<math.h>
 int main(){
