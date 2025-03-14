@@ -1,7 +1,7 @@
 /*
 author: Daiji Kuriakose
 Date  : 05/02/2025
-Program: To input elements into an array and find the maximum and minimum elements.
+Program: To search a number among group of numbers.
 */
 #include<stdio.h>
 int main(){
