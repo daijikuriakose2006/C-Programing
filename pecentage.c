@@ -1,3 +1,7 @@
+/*author: Daiji Kuriakose
+  Date  : 29/01/2025
+  program: to fint the pecentage of students mark.
+*/
 #include<stdio.h>
 int main(){
 char name[20];
